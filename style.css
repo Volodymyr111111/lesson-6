@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+ul{
+  background-color: teal;
+  list-style: none;
+}
+li{
+  color: white;
+  font-size: 28px;
+  display: inline-block;
+  margin: 30px;
+}
+h1{
+  text-align: center;
+}
